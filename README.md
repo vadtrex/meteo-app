@@ -1,8 +1,8 @@
 # Bash and Powershell Weather App (EN)
 
-![Meteo App](./meteo_app.gif)
-
 _This description is an automatic translation of the Polish version below._
+
+![Meteo App](./meteo_app.gif)
 
 ## Project Description
 
